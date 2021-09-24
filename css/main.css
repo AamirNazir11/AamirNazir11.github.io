@@ -66,3 +66,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+@media all and (max-width:30em){
+ a.tabs{
+  display:block;
+  margin:0.4em auto;
+ }
+}
