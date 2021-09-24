@@ -54,8 +54,7 @@ a.tabs {
 
 a.tabs:hover {
     text-decoration: underline;
-    color:#000000;
-    background-color:#FFFFFF;
+    background-color:#000000;
 }
 
 ul.posts {
