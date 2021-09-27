@@ -1,13 +1,17 @@
 # Lab1
 This is the repo for Lab 1
-# Home Tab
-This tab leads you to the Page
-# Blog tab
-This tab leads you to the /blog page It lists out the different blogs posted
-# About Tab
-This tab leads you to the about page describing the website
-# Do Not Click Here Tab
-:warning: **Open this tab at your own risk**: This tab is known to cause mental trauma
+
+# Home
+This is the Home page of the website
+
+# Blog
+This is the page that lists out all the blogs posted on this website
+
+# About
+This gives some information about the website 
+
+# Do Not Click Here Page
+:warning: **Open this at your own risk**: This page is known to cause mental trauma
 
 
 
