@@ -1,5 +1,5 @@
-# Lab1
-This is the repo for Lab 1
+# BigBrainBlogs
+This is the repo for BigBrainBlogs. Link to the website: https://aamirnazir11.github.io/
 
 # Home
 This is the Home page of the website
